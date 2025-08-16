@@ -1,8 +1,29 @@
 # Abdulrahman Fekry - Flutter Developer
 
-Welcome to my GitHub profile! 👋
+🚀 Welcome to my GitHub profile! 👋
 
-I’m **Abdulrahman Fekry**, a passionate **Flutter Developer** based in Cairo, Egypt. I specialize in building high-quality mobile applications using **Flutter** and **Dart**. My expertise includes integrating **Firebase** and **Paymob** into apps, and I have worked on projects like **News Apps** and **E-commerce Apps**.
+I’m Abdulrahman Fekry, a Flutter Developer based in Cairo, Egypt.
+I specialize in building high-quality, cross-platform mobile applications using Flutter & Dart.
+
+💡 My expertise includes:
+
+📱 Developing scalable mobile apps with a strong focus on UI/UX
+
+🔥 Integrating Firebase services (Auth, Firestore, Cloud Functions, Messaging)
+
+💳 Implementing Paymob payment gateway
+
+🌐 API integration & RESTful services
+
+🛠 Working with state management (Bloc/Cubit, Riverpod)
+
+📌 I have worked on projects such as:
+
+🛍 E-commerce App
+
+🩺 PhysioMatch – A platform for testing and onboarding physiotherapists
+
+👨‍⚕️ DocWay – A healthcare booking & management solution
 
 ## Technologies & Tools
 
