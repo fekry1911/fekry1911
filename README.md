@@ -1,7 +1,7 @@
 # 👋 Hey there! Welcome to my GitHub Profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&width=600&lines=I'm+Abdulrahman+Ahmed+Fekry+✨;A+Front-End+Developer+and+Cross-Platform+Developer+💻;I+build+modern+web+and+mobile+apps+using+React,+React+Native,+and+Flutter+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7DF1E&width=800&lines=I'm+Abdulrahman+Ahmed+Fekry+✨;Front-End+Developer+%26+Cross-Platform+💻;Building+modern+web+and+mobile+apps;using+React,+React+Native,+and+Flutter+⚡" />
 </p>
 
 ---
@@ -21,10 +21,14 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
+
+
 ---
 
-## 🌱 Skills
+## 📫 Contact Me
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&width=435&lines=React;React+Native;Flutter;Redux+Toolkit;React+Query;JavaScript;HTML5;CSS3;Git;Firebase)
+  <a href="https://www.linkedin.com/in/abdulrahman-fekry-a641531a1" target="_blank">LinkedIn</a> | 
+  <a href="mailto:your-email@example.com" target="_blank">Email</a> | 
+  <a href="https://github.com/fekry1911" target="_blank">GitHub</a>
 </p>
