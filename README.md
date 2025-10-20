@@ -1,50 +1,27 @@
-# Abdulrahman Fekry - Flutter Developer
-
-🚀 Welcome to my GitHub profile! 👋
-
-I’m Abdulrahman Fekry, a Flutter Developer based in Cairo, Egypt.
-I specialize in building high-quality, cross-platform mobile applications using Flutter & Dart.
-
-💡 My expertise includes:
-
-📱 Developing scalable mobile apps with a strong focus on UI/UX
-
-🔥 Integrating Firebase services (Auth, Firestore, Cloud Functions, Messaging)
-
-💳 Implementing Paymob payment gateway
-
-🌐 API integration & RESTful services
-
-🛠 Working with state management (Bloc/Cubit, Riverpod)
-
-📌 I have worked on projects such as:
-
-🛍 E-commerce App
-
-🩺 PhysioMatch – A platform for testing and onboarding physiotherapists
-
-👨‍⚕️ DocWay – A healthcare booking & management solution
-
-## Technologies & Tools
-
-- **Languages:** ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=flat-square&logo=dart&logoColor=white)
-- **Frameworks:** ![Flutter](https://img.shields.io/badge/Flutter-%23025691?style=flat-square&logo=flutter&logoColor=white)
-- **Database:** ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=flat-square&logo=firebase&logoColor=white) 
-- **State Management:** ![Bloc](https://img.shields.io/badge/Bloc-%233C7DF0?style=flat-square&logo=flutter&logoColor=white) and currently learning ![Riverpod](https://img.shields.io/badge/Riverpod-%2308A0D4?style=flat-square&logo=flutter&logoColor=white)
-
-## Projects
-
-Here are a few projects I’ve worked on:
-
-- [News App](link-to-your-project) - A news aggregator app built with Flutter. 📰
-- [Weather App](link-to-your-project) - A weather app using API data and Flutter. ☀️
-- [ShopSphere E-commerce App](link-to-your-project) - An e-commerce app with payment integration. 🛒
-
-## Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/abdulrahman-fekry-a641531a1) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)
-- [GitHub](https://github.com/fekry1911) ![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=flat-square&logo=github&logoColor=white)
+# 👋 Hey there! Welcome to my GitHub Profile!
+I'm Adulrahman Ahmed Fekry ✨  
+A Front-End Developer and Cross-Platform Developer 💻  
+I build modern web and mobile apps using **React**, **React Native**, and **Flutter** ⚡
 
 ---
 
-Thank you for visiting my GitHub! 🚀
+## 💻 Tools & Technologies
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 🌱 Skills
+
+- Front-End Web Development
+- Mobile App Development (Cross-Platform)
+- UI/UX Design
+- State Management (Bloc/Cubit, Riverpod)
+- API & Payment Integration (Paymob)
